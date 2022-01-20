@@ -1,4 +1,4 @@
-# To do List
+# Image-slider
 
 Created as part of the Odin Project [curriculum](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript/lessons/dynamic-user-interface-interactions).
 
